@@ -1,5 +1,5 @@
 # ExpressBoilerplate
-Boilerplate code for Express, including some security middlewares and a code organization tips
+Boilerplate code for Express, including some security middlewares and code organization tips
 
 # Usage
 
